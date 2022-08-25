@@ -98,7 +98,9 @@
 			"vad_enabled_warning": "非アクティブにすると誰が話しているのかわからなくなります。",
 			"echocancellation": "エコーキャンセラー",
 			"noiseSuppression": "ノイズ防止",
-			"spatial_audio": "立体音響"
+			"spatial_audio": "立体音響",
+			"oldsampledebug": "サンプルレートデバッグ",
+			"oldsampledebug_warning": "これは、質問されたときだけ有効になるテスト機能です。"
 		},
 		"streaming": {
 			"title": "配信設定",
